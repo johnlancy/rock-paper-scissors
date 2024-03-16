@@ -5,7 +5,7 @@ body {
 }
 
 .title {
-	font-size: 30px;
+	font-size: 35px;
 	font-weight: bold;
 }
 
@@ -33,7 +33,6 @@ body {
 	margin-top: 60px;
 }
 
-.reset-score-button,
 .auto-play-button {
 	background-color: white;
 	border: none;
